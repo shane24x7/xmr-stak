@@ -3,7 +3,7 @@
 
 # Disallow pull requests to `fireice-uk/xmr-stak` branch `master`
 #
-# - merging from `dev` or `release-...` located within our reposetory is allowed
+# - merging from `dev` or `release-...` located within our repository is allowed
 # - merging to `master` within a fork is allowed
 # - pull request to `dev` are allowed from everywhere
 #
